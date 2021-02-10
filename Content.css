@@ -40,3 +40,15 @@ body {
   margin-left: 200px;
   padding-left: 20px;
 }
+
+#Sofka{
+    color: orange;
+    font-size: 4em;
+    text-align: center;
+}
+
+.texto{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
